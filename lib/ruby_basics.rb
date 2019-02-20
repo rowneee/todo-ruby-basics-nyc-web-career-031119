@@ -10,11 +10,8 @@ def assign_variable(value)
 end
 
 def argue(argument)
-  return "#{argument}" 
   "#{argument}" 
 end
-
-puts argue
 
 def greeting(greeting, name)
   puts "#{greeting} #{name}"
