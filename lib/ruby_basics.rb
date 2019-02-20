@@ -10,13 +10,16 @@ def assign_variable(value)
 end
 
 def argue
-  
+  return argue
 end
 
 
-def greeting
 
+def greeting(greeting, name)
+  "#{greeting} #{name}"
 end
+
+greeting
 
 def return_a_value
 
