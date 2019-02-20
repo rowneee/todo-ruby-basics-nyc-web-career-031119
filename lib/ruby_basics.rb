@@ -23,7 +23,7 @@ def return_a_value
   puts "Nice"
 end
 
-return_a_value
+return_a_value()
 
 def last_evaluated_value
   puts "expert"
