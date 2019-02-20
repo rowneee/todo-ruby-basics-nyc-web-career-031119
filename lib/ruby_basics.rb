@@ -33,6 +33,9 @@ end
 
 last_evaluated_value("expert")
 
-def pizza_party
-
+def pizza_party(value= "cheese")
+  puts "#{value}"
+  "#{value}"
 end
+
+pizza_party
