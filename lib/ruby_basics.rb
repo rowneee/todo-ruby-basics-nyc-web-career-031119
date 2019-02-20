@@ -13,8 +13,6 @@ def argue
   return argue
 end
 
-
-
 def greeting(greeting, name)
   "#{greeting} #{name}"
 end
