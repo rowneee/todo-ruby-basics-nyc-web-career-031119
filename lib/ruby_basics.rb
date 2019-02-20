@@ -11,6 +11,7 @@ end
 
 def argue(argument)
   return "#{argument}" 
+  "#{argument}" 
 end
 
 puts argue
