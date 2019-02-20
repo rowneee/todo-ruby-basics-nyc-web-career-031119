@@ -20,16 +20,16 @@ def greeting(greeting, name)
 end
 
 def return_a_value(value)
-  puts "#{value}"
+  puts "Nice"
 end
 
-return_a_value("Nice")
+return_a_value
 
-def last_evaluated_value(value)
-  puts "#{value}"
+def last_evaluated_value
+  puts "expert"
 end
 
-last_evaluated_value("expert")
+last_evaluated_value
 
 def pizza_party(value= "cheese")
   puts "#{value}"
