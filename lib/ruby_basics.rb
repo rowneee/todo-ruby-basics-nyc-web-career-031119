@@ -19,7 +19,7 @@ end
 
 def return_a_value(value)
   puts "#{value}"
-  # "#{value}"
+  "#{value}"
 end
 
 return_a_value("Nice")
