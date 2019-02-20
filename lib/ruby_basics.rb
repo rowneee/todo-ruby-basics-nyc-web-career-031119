@@ -10,7 +10,7 @@ def assign_variable(value)
 end
 
 def argue(argument)
-  return 
+  "#{argument}" 
 end
 
 puts argue
