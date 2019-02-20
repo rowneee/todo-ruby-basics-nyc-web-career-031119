@@ -9,8 +9,8 @@ def assign_variable(value)
   "#{value}"
 end
 
-def argue(arg)
-  puts "#{arg}"
+def argue
+  
 end
 
 argue
