@@ -19,9 +19,11 @@ end
 
 greeting
 
-def return_a_value
-
+def return_a_value(value)
+  puts "#{value}"
 end
+
+return_a_value("Nice")
 
 def last_evaluated_value
 
