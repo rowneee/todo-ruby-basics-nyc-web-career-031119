@@ -13,7 +13,6 @@ def argue
   
 end
 
-argue
 
 def greeting
 
