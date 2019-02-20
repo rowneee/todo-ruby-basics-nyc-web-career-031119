@@ -14,10 +14,10 @@ def argue
 end
 
 def greeting(greeting, name)
-  
+  puts "#{greeting} #{name}"
 end
 
-greeting
+
 
 def return_a_value(value)
   puts "#{value}"
